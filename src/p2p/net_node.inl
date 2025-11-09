@@ -741,7 +741,7 @@ namespace nodetool
     }
     else
     {
-      full_addrs.insert(192.168.195.146:18080");
+      full_addrs.insert("192.168.195.146:18080");
     }
     return full_addrs;
   }
